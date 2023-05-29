@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="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"
 PROMPT="Propose next experiments to test the hypothesis that adipocyte Wnt signaling and fatty acid production contribute to cancer pathogenesis"
 FINE_TUNED_MODEL="davinci:ft-ai-sf-hackathon-team-20-2023-05-27-16-02-49"
 
